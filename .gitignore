@@ -1,0 +1,7 @@
+# Scripts de desarrollo
+*.ps1
+
+# Archivos de diseño / exportación
+.thumbnail
+screenshots/
+uploads/
