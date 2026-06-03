@@ -1,0 +1,7 @@
+﻿User-agent: *
+Allow: /
+
+Disallow: /build.ps1
+Disallow: /seo.ps1
+
+Sitemap: https://yel3d.es/sitemap.xml
